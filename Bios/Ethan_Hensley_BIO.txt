@@ -1,0 +1,17 @@
+Bio - Ethan Hensley
+https://github.com/evasiveace
+
+Experience with being Product Owner from 4250, would most enjoy being a Developer. 
+
+IT Major with experience in CS programming.
+
+Technical Skills
+	- In depth experience with Python
+	- In depth experience with C#
+	- Knowledge in Data Structures and Trees
+	- Experience with JavaScript, HTML/CSS, Bootstrap
+
+Experience with Microsoft Sheets, as well as Trello.
+Experience with pushing and pulling with Visual Studio and GitHub.
+
+In depth experience with the software development life cycle, as well as with SCRUM sprints.
