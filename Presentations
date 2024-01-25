@@ -11,7 +11,7 @@ Lifecycle Models and Process
 1.	Kanban (Software Development)	- Tyler Burleson
 2.	Crystal (Software Development)	- Carson Crysdale
 3.	Team Software Process and Personal Software Process - 
-4.a.	Build Automation - 
+4.a.	Build Automation - Kurt Brewer
 4.b. 	CI/CD Pipeline - 
 
 Project Management and Professional Practice
@@ -20,12 +20,11 @@ Project Management and Professional Practice
 7.	Formal Methods			- 
 8.	Cleanroom Software Engineering - Patrick Vergason
 9.	Microsoft Project -
-9.	Microsoft Project -
 
 Software Architectures and Tools
 10.	Angular or React - Jacob Manis
 11.	Service-Oriented Architecture - 
-12.	Infrastructure as a Service	- 
+12.	Infrastructure as a Service	- Kurt Brewer
 13.	Platform as a Service	- Joshua Rimell
 14.	Docker  - Tyler Burleson | Ethan Webb
 15.	Ansible - 
@@ -33,6 +32,8 @@ Software Architectures and Tools
 17.	Splunk (for DevOps) - Patrick Vergason
 18.	Selenium - 
 19.	AWS or Azure - Carson Crysdale, Ethan Hensley
+new> Grafana Overview  - Charlie Shahan
+new> Grafana Tutorial  - Charlie Shahan
 
 Development Paradigms and Testing
 20.	Test-Driven Development - Ethan Webb
