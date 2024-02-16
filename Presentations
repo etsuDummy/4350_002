@@ -27,7 +27,7 @@ Software Architectures and Tools
 12.	Infrastructure as a Service	- Kurt Brewer
 13.	Platform as a Service	- Joshua Rimell
 14.	Docker  - Tyler Burleson: https://www.youtube.com/watch?v=IOH9nD-PNh4 | Ethan Webb
-15.	Ansible - 
+15.	Ansible - Joe Nagy
 16.	Jenkins	- Sophia Herrell | Noah Horner
 17.	Splunk (for DevOps) - Patrick Vergason
 18.	Selenium - Christopher Bragg
@@ -43,5 +43,5 @@ Development Paradigms and Testing
 
 AI in SE
 24. AI for code completion - Christopher Presnell
-25. AI for code creation (where the AI writes all the code) - 
+25. AI for code creation (where the AI writes all the code) - Joe Nagy
 26. AI for code analysis - Ethan Hensley
