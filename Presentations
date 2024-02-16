@@ -27,7 +27,7 @@ Software Architectures and Tools
 12.	Infrastructure as a Service	- Kurt Brewer
 13.	Platform as a Service	- Joshua Rimell
 14.	Docker  - Tyler Burleson: https://www.youtube.com/watch?v=IOH9nD-PNh4 | Ethan Webb
-15.	Ansible - 
+15.	Ansible - Joe Nagy
 16.	Jenkins	- Sophia Herrell | Noah Horner & Tyler Burleson (Pair)
 17.	Splunk (for DevOps) - Patrick Vergason
 18.	Selenium - Christopher Bragg
@@ -38,10 +38,10 @@ new> Grafana Tutorial  - Charlie Shahan
 Development Paradigms and Testing
 20.	Test-Driven Development - Ethan Webb ,  Chris Upham
 21.	Behavior Driven Development - Sophia Herrell
-22.	Feature Driven Development - Austin Mahala
+22.	Feature Driven Development - Austin Mahala, Jackson Denti
 23.	Dependency Injection - Bryson Brandon
 
 AI in SE
 24. AI for code completion - Christopher Presnell
-25. AI for code creation (where the AI writes all the code) - 
+25. AI for code creation (where the AI writes all the code) - Joe Nagy
 26. AI for code analysis - Ethan Hensley
