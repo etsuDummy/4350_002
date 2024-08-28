@@ -10,12 +10,12 @@ you can team up with someone and co-present: if you do team up, the presentation
 Lifecycle Models and Process
 1.	Kanban (Software Development)	- 
 2.	Crystal (Software Development)	- 
-3.	Team Software Process and Personal Software Process - 
+3.	Team Software Process and Personal Software Process - Dustin Swayze
 4.a.	Build Automation - Keillor Cogswell [secondary]
 4.b. 	CI/CD Pipeline - 
 
 Project Management and Professional Practice
-5.	Risk Management -  Keillor Cogswell [primary]
+5.	Risk Management -  Keillor Cogswell[primary], Jasmine Reisler
 6.	Software Complexity Metrics	- 
 7.	Formal Methods			- 
 8.	Cleanroom Software Engineering - Yu Lee
@@ -37,7 +37,7 @@ Development Paradigms and Testing
 20.	Test-Driven Development -  
 21.	Behavior Driven Development - 
 22.	Feature Driven Development - 
-23.	Dependency Injection - 
+23.	Dependency Injection - Tyler Waddell
 
 AI in SE
 24. AI for code completion - 
