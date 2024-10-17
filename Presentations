@@ -15,7 +15,7 @@ Lifecycle Models and Process
 4.b. 	CI/CD Pipeline - Phillip Edwards (https://youtu.be/NzHnjTNMeRw)
 
 Project Management and Professional Practice
-5.	Risk Management -  Keillor Cogswell[primary], Jasmine Reisler
+5.	Risk Management -  Keillor Cogswell[delivered in class], Jasmine Reisler (Part 1 https://youtu.be/GNiRRpv__i0; Part 2 https://youtu.be/YR_4qm1y2mg)
 6.	Software Complexity Metrics	- 
 7.	Formal Methods			- 
 8.	Cleanroom Software Engineering - Yu Lee (https://youtu.be/6hG8Le9Bs_4)
@@ -24,24 +24,25 @@ Project Management and Professional Practice
 Software Architectures and Tools
 10.	Angular or React - Travis Nagle (https://youtu.be/pn5txYBijoI)
 11.	Service-Oriented Architecture - Genalyn Thomas - https://youtu.be/lznaJWeM1ow
-12.	Infrastructure as a Service	- James Park
+12.	Infrastructure as a Service	- James Park (https://youtu.be/xBu9WnQkog8)
 13.	Platform as a Service	- 
-14.	Docker  - Andrew Garcia, Blake Lawson
+14.	Docker  - Andrew Garcia (https://youtu.be/x_vIIUV8AQk), Blake Lawson (https://youtu.be/Zntwx251-2o)
 15.	Ansible - 
 16.	Jenkins	- 
-17.	Splunk (for DevOps) - Trent Allen
+17.	Splunk (for DevOps) - Trent Allen https://youtu.be/HY3p2V3r1Pw
 18.	Selenium - Levi Shingleton (https://youtu.be/WnY3pbZg4KU)
-19.	AWS or Azure - Grayson Burke ,Adam Haun (https://youtu.be/IWEn313b-Lc)
+19.	AWS or Azure - Grayson Burke (https://youtu.be/ujpuEb4LCXQ) , Adam Haun (https://youtu.be/IWEn313b-Lc)
 
 Development Paradigms and Testing
-20.	Test-Driven Development - Ethan Roberts
+20.	Test-Driven Development - Ethan Roberts (https://youtu.be/q43yG6HI4j4)
 21.	Behavior Driven Development - Caden Lafollette [secondary]
-22.	Feature Driven Development - Caden Lafollette [primary]
-23.	Dependency Injection - Tyler Waddell (https://youtu.be/ayVX1L8DEt0), Jacob Perdue
+22.	Feature Driven Development - Caden Lafollette (delivered in class) 
+23.	Dependency Injection - Tyler Waddell (https://youtu.be/ayVX1L8DEt0), Jacob Perdue (https://www.youtube.com/watch?v=94P2LMI2Wvo)
 
 AI in SE
 24. AI for code completion - 
-25. AI for code creation (where the AI writes all the code) - Noah Cole, Abigayle Hays
+25. AI for code creation (where the AI writes all the code) - 
+              Noah Cole (https://www.youtube.com/watch?v=iOdJWn7FvzU), Abigayle Hays (https://www.youtube.com/watch?v=J8V_nNjIbqk)
 26. AI for code analysis - Travis Nagle [secondary]
 
 The Pheonix Project - 
